@@ -16,5 +16,7 @@ namespace LineComparison_p3
             Console.WriteLine(length);
             return length;
         }
+
+
     }
 }
